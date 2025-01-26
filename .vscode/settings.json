@@ -1,3 +1,6 @@
 {
-   "C_Cpp.default.compilerPath": "/home/abdalrhman/Documents/problem-solving/level-one/alloy.cpp"
+   "C_Cpp.default.compilerPath": "/home/abdalrhman/Documents/problem-solving/level-one/alloy.cpp",
+   "files.associations": {
+      "iostream": "cpp"
+   }
 }
